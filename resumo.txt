@@ -1,0 +1,5 @@
+yarn tsc --init
+
+yarn add @types/express -D
+
+yarn add ts-node-dev -D <-- faz o papel do tsc e nodemon, bichão é grosso
